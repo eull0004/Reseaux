@@ -23,7 +23,7 @@ _les informations sont :_
 ## 4.
 ### a) **Quelles sont les informations répertoriées à la fois dans la section IP de PDU Details (Détails PDU) et dans l'onglet OSI Model (Modèle OSI) ?**
 _Les informations a la fois présente dans la section IP par rapport à l'onglet OSI Model sont la "SRC IP" et la "DST IP" ainsi que leurs valeurs respectives._
-add points-commun img2 et img4
+add points-commun 
 
 ### **À quelle couche ces informations sont-elles associées ?**
 _ces informations sont associées à la couche 3._
