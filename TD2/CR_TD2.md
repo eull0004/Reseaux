@@ -4,11 +4,12 @@
 
 ### a) **Noter l'adresse IP (notée inet avec ifconfig) et l'adresse physique (MAC, notée ether) de l'interface de votre ordinateur.**
 _adresse IP :_ 10.31.4.58
+
 _adresse MAC :_ 5C-60-BA-C6-6E-37 
 
 ![](img/../../img/img1aDONE.png)
 
-### b) b) **Demandez à un binôme voisin de fournir l'adresse IP de son ordinateur et donnez-lui la votre. Ne lui fournissez pas votre adresse MAC pour le moment.**
+### b) **Demandez à un binôme voisin de fournir l'adresse IP de son ordinateur et donnez-lui la votre. Ne lui fournissez pas votre adresse MAC pour le moment.**
 
 _adresse IP du voisin :_ 10.31.4.59
 
