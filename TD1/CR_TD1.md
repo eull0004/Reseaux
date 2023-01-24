@@ -3,6 +3,7 @@
 ## 3.
 ### **a) Quelles sont les informations qui figurent dans la partie basse de cette fenêtre ?(« Zone d’information » ci-dessus)**
 _les informations sont : "1. The HTTP client sends a HTTP request to the server."_
+
 ![](img/01.png)
 
 ### **b) Quelle est la valeur Dst Port pour la couche 4 dans la colonne Out Layers ?**
@@ -63,6 +64,7 @@ _Seulement 2 onglets sont afficher car le client Web ne fait que reçevoir des i
 ## 2.
 ### **a) Quels types d'événements supplémentaires sont affichés ?**
 _Ici, il y a 15 évènements dans se cas présent avec en plus des types HTTP, la présence de type TCP et DNS_
+
 ![](img/img2a_PartieII.png)
 
 ### **b) Quels sont leurs rôles au sein de la suite TCP/IP ?**
@@ -72,11 +74,13 @@ _Le TCP a pour rôle de livrer les données tandis que le DNS a pour rôle dans 
 ## 3.
 ### **Cliquer sur le premier événement DNS dans la colonne Type. Examiner les onglets OSI Model (Modèle OSI) et PDU Detail (Détails PDU), et observer le processus d'encapsulation. La zone d’information fournit des explications sur ce qui se produit durant le processus de communication.**
 _Au niveau de la couche 4, la machine encapsule le PDU en un segment UDP tandis que dans la couche 2, la machine encapsule le PDU en Ethernet._
+
 ![](img/img3.1_PartII.png)![](img/img3bis_PartII.png)![](img/img3ter_PartII.png)
 
 ## 4.
 ### **Cliquer sur l'onglet Outbound PDU Details : quelles informations figurent dans le champ NAME: dans la section DNS Query ?**
 _Dans la section DNS Query, le nom affiché est l’URL rentré précedemment soit : www.osi.local_
+
 ![](img/img4_PartII.png)
 
 ## 5. 
@@ -84,13 +88,16 @@ _Dans la section DNS Query, le nom affiché est l’URL rentré précedemment so
 _Le PDU a été capturée par le client web._
  ### **b) Quelle est la valeur indiquée en regard de la zone ADDRESS : de la section DNS Answer ?**
 _La valeur indique dans DNS Answer est : 192.168.1.254_
+
 ![](img/img5_PartII.png)
 
 ## 6.
 ### **a) Dans l’onglet OSI Model, qu’indiquent les étapes 4 et 5, affichées dans la zone d’information pour la couche 4 ?**
 _Dans la couche 4, l’étape 4 nous indique que la connexion au TCP a été un succès. Puis l’étape 5 indique que la machine à régler l’état de connexion sur établie._
+
 ![](img/img6_partII.png)
 
 ### **b) Même question pour le dernier événement TCP dans la liste.**
 _Dans la couche 4, l’étape 4 nous indique que la machine à rélger l’état de connexion à clos._
+
 ![](img/img6b_partII.png)
