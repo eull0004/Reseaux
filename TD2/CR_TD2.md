@@ -7,42 +7,42 @@ _adresse IP :_ 10.31.4.58
 
 _adresse MAC :_ 5C-60-BA-C6-6E-37 
 
-![](img/../../img/img1aDONE.png)
+![](img/TD2/img1aDONE.png)
 
 ### b) **Demandez à un binôme voisin de fournir l'adresse IP de son ordinateur et donnez-lui la votre. Ne lui fournissez pas votre adresse MAC pour le moment.**
 
 _adresse IP du voisin :_ 10.31.4.59
 
-![](img/../../img/TD2/img1bVoisinDONE.png)
+![](img/TD2/img1bVoisinDONE.png)
 
 ## 2. **Commencer à capturer des données avec Wireshark**
 
 ### a) **Sélectionner l’interface correspondant au réseau local.**
 
-![](img/../../img/TD2/img2a.png)
+![](img/TD2/img2a.png)
 
 ### b) **Cliquer sur l’aileron de requin pour démarrer la capture ! Les lignes de données s'affichent en différentes couleurs selon le protocole :**
 
-![](img/../../img/TD2/img2b.png)
+![](img/TD2/img2b.png)
 
 ### c) **Pour cet atelier, il suffit de limiter l’affichage aux données ICMP (correspondant au ping) :**
 
-![](img/../../img/TD2/img2c.png)
+![](img/TD2/img2c.png)
 
 ### c) et e) **Afficher la fenêtre d'invite de commandes ouverte précédemment et envoyer une requête ping à l'adresse IP du voisin :** et **Arrêter la capture en cliquant sur le gros carré rouge … **
 
-![](img/../../img/TD2/img2d.png)
-![](img/../../img/TD2/img2e.png)
+![](img/TD2/img2d.png)
+![](img/TD2/img2e.png)
 
 ## 3.
 ### a) **Cliquer sur la première trame de requête ICMP dans la partie supérieure de Wireshark.**
 _L'adresse IP Source correspond à notre machine et l'adresse IP destination à la machine voisine._
 
-![](img/../../img/TD2/img3a.png)
+![](img/TD2/img3a.png)
 
 ### b) **Afficher les adresses MAC de la destination et de la source.**
 
-![](img/../../img/TD2/img3b.png)
+![](img/TD2/img3b.png)
 
 ### c) **L'adresse MAC de la source correspond-elle à l'interface de votre ordinateur ?**
 _OUI, Les adresses correspondent bien_
@@ -57,17 +57,20 @@ _grâce a l'ARP(adress Resolution protocol) qui permet de récupérer l'addresse
 ## 1. **Nouvelle capture**
 
 ### b) **Le processus de capture étant actif, envoyez une requête ping aux trois URL de sites web suivantes : www.yahoo.com; www.cisco.com; www.google.com**
-_YAHOO :_ ![](img/../../img/TD2/img1bPINGyahoo_PartII.png)
+_YAHOO :_ 
+![](img/TD2/img1bPINGyahoo_PartII.png)
 
-![](img/../../img/TD2/img1b_PartII(yahoo).png)
+![](img/TD2/img1b_PartII(yahoo).png)
 
-_CISCO :_ ![](img/../../img/TD2/img2bPINGcisco_PartII.png)
+_CISCO :_ 
+![](img/TD2/img2bPINGcisco_PartII.png)
 
-![](img/../../img/TD2/img1b_PartII(cisco).png)
+![](img/TD2/img1b_PartII(cisco).png)
 
-_GOOGLE :_![](img/../../img/TD2/img2bPINGgoogle_PartII.png)
+_GOOGLE :_
+![](img/TD2/img2bPINGgoogle_PartII.png)
 
-![](img/../../img/TD2/img1b_PartII(google).png)
+![](img/TD2/img1b_PartII(google).png)
 
 ## 2. **Examen et analyse des données des hôtes distants**
 ### b) **Indiquer les adresses IP et MAC de destination pour les trois sites :**
