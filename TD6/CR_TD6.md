@@ -22,7 +22,7 @@
 ![](TD6/TD6/img_1.4c.png)
 
 ### 5. Tenter de parcourir l’arborescence.
-![](TD6/TD6/img_1.5 .png)
+![](TD6/TD6/img_1.5.png)
 
 ### 6.
 ### a) Modifier la configuration pour activer la ligne chroot_local_user=YES
