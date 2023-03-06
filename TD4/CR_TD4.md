@@ -1,7 +1,7 @@
 # COMPTE RENDU
 # PARTIE 1: *Gestion d'un réseau dans fil - les trames "beacon"*
 ### 2. Observer la première trame et déterminer la gamme de fréquences et le canal utilisé.**
-_La fréquence est de 2437 MHz donc c'est une bande ISM et son canal est le 6.
+_La fréquence est de 2437 MHz donc c'est une bande ISM et son canal est le 6._
 ![](TD4/TD4/p1_q2_1.PNG)
 
 ### 3. Quels sont les SSID des deux points d'accès qui émettent la plupart des trames de balises dans cette trace ?**
@@ -36,18 +36,18 @@ _ff:ff:ff:ff:ff:ff_
 _Non_
 
 ### 6. L’hôte abandonne cette association et teste l’AP 30 Munroe St. À quels moments y a-t-il une trame AUTHENTICATION de l’hôte vers l’AP et quand y-a-t-il une réponse de l’AP ?**
-__Il y a une trame authentification de l'hôte vers l'AP à t = 63. L'AP répond à t = 63.__
+_Il y a une trame authentification de l'hôte vers l'AP à t = 63. L'AP répond à t = 63._
 ![](TD4/TD4/p2_q6_1.PNG)
 ![](TD4/TD4/p2_q6_2.PNG)
 
 ### 7. À quel moment a-t-on une trame ASSOCIATION REQUEST de l’hôte vers l’AP 30 Munroe St et quand la réponse correspondante est-elle émise ?**
 ![](TD4/TD4/p2_q7_1.PNG)
-__On a une trame ASSOCIATION REQUEST de l'hôte vers l'AP à t = 63 et la réponse arrive un peu près toujours à t = 63__
+_On a une trame ASSOCIATION REQUEST de l'hôte vers l'AP à t = 63 et la réponse arrive un peu près toujours à t = 63_
 
 ### 8. Quels débits l’hôte peut-il utiliser ? L’AP ?**
-__l'hôte :__
+_l'hôte :_
 ![](TD4/TD4/p2_q8_1.PNG)
-__l'AP :__
+_l'AP :_
 ![](TD4/TD4/p2_q8_2.PNG)
 
 # PARTIE 3: *Transfert de données*
@@ -55,7 +55,7 @@ __l'AP :__
 ![](TD4/TD4/p3_q1_1.PNG)
 
 ### 2. Quels sont les trois adresses MAC dans la trame ? Laquelle de ces adresses est celle de l’hôte ? Du point d’accès ? De la passerelle ?**
-__adresse MAC (hôte): 00:13:02:d1:b6:4f__  
-__adresse MAC (point d'accès): 00:16:b6:f4:eb:a8__  
-__adresse MAC (passerelle): 00:13:02:d1:b6:4f__
+_adresse MAC (hôte): 00:13:02:d1:b6:4f_
+_adresse MAC (point d'accès): 00:16:b6:f4:eb:a8_
+_adresse MAC (passerelle): 00:13:02:d1:b6:4f_
 ![](TD4/TD4/p3_q2_1.PNG)
