@@ -7,7 +7,7 @@ _adresse IP :_ 10.31.4.58
 
 _adresse MAC :_ 5C-60-BA-C6-6E-37 
 
-![](img/TD2/img1aDONE.png)
+![](TD2/TD2/img1aDONE.png)
 
 ### b) **Demandez à un binôme voisin de fournir l'adresse IP de son ordinateur et donnez-lui la votre. Ne lui fournissez pas votre adresse MAC pour le moment.**
 
