@@ -13,7 +13,7 @@ _adresse MAC :_ 5C-60-BA-C6-6E-37
 
 _adresse IP du voisin :_ 10.31.4.59
 
-![](img/TD2/img1bVoisinDONE.png)
+![](TD2/TD2/img1bVoisinDONE.png)
 
 ## 2. **Commencer à capturer des données avec Wireshark**
 
