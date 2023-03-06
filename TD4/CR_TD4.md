@@ -47,6 +47,7 @@ _On a une trame ASSOCIATION REQUEST de l'hôte vers l'AP à t = 63 et la répons
 ### 8. **Quels débits l’hôte peut-il utiliser ? L’AP ?**
 _l'hôte :_
 ![](TD4/TD4/p2_q8_1.PNG)
+
 _l'AP :_
 ![](TD4/TD4/p2_q8_2.PNG)
 
