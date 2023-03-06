@@ -20,6 +20,7 @@ _ff:ff:ff:ff:ff:ff_
 ![]()
 ![]()
 
+
 # PARTIE 2: *Association/désassociation*
 ### **a) Quelles sont les deux trames émises par l’hôte juste après t = 49 pour clore l’association avec l’AP 30 Munroe St ?**
 ![]()
