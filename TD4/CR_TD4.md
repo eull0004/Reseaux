@@ -51,7 +51,7 @@ _l'AP :_
 ![](TD4/TD4/p2_q8_2.PNG)
 
 # PARTIE 3: *Transfert de données*
-### 1. Trouver la trame 802.11 contenant le segment TCP SYN d’établissement de connexion de la première requête.**
+### 1. Trouver la trame 802.11 contenant le segment TCP SYN d’établissement de connexion de la première requête.
 ![](TD4/TD4/p3_q1_1.PNG)
 
 ### 2. Quels sont les trois adresses MAC dans la trame ? Laquelle de ces adresses est celle de l’hôte ? Du point d’accès ? De la passerelle ?**
