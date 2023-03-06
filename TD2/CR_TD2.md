@@ -19,30 +19,30 @@ _adresse IP du voisin :_ 10.31.4.59
 
 ### a) **Sélectionner l’interface correspondant au réseau local.**
 
-![](img/TD2/img2a.png)
+![](TD2/TD2/img2a.png)
 
 ### b) **Cliquer sur l’aileron de requin pour démarrer la capture ! Les lignes de données s'affichent en différentes couleurs selon le protocole :**
 
-![](img/TD2/img2b.png)
+![](TD2/TD2/img2b.png)
 
 ### c) **Pour cet atelier, il suffit de limiter l’affichage aux données ICMP (correspondant au ping) :**
 
-![](img/TD2/img2c.png)
+![](TD2/TD2/img2c.png)
 
 ### c) et e) **Afficher la fenêtre d'invite de commandes ouverte précédemment et envoyer une requête ping à l'adresse IP du voisin :** et **Arrêter la capture en cliquant sur le gros carré rouge … **
 
-![](img/TD2/img2d.png)
-![](img/TD2/img2e.png)
+![](TD2/TD2/img2d.png)
+![](TD2/TD2/img2e.png)
 
 ## 3.
 ### a) **Cliquer sur la première trame de requête ICMP dans la partie supérieure de Wireshark.**
 _L'adresse IP Source correspond à notre machine et l'adresse IP destination à la machine voisine._
 
-![](img/TD2/img3a.png)
+![](TD2/TD2/img3a.png)
 
 ### b) **Afficher les adresses MAC de la destination et de la source.**
 
-![](img/TD2/img3b.png)
+![](TD2/TD2/img3b.png)
 
 ### c) **L'adresse MAC de la source correspond-elle à l'interface de votre ordinateur ?**
 _OUI, Les adresses correspondent bien_
@@ -58,19 +58,19 @@ _grâce a l'ARP(adress Resolution protocol) qui permet de récupérer l'addresse
 
 ### b) **Le processus de capture étant actif, envoyez une requête ping aux trois URL de sites web suivantes : www.yahoo.com; www.cisco.com; www.google.com**
 _YAHOO :_ 
-![](img/TD2/img1bPINGyahoo_PartII.png)
+![](TD2/TD2/img1bPINGyahoo_PartII.png)
 
-![](img/TD2/img1b_PartII(yahoo).png)
+![](TD2/TD2/img1b_PartII(yahoo).png)
 
 _CISCO :_ 
-![](img/TD2/img2bPINGcisco_PartII.png)
+![](TD2/TD2/img2bPINGcisco_PartII.png)
 
-![](img/TD2/img1b_PartII(cisco).png)
+![](TD2/TD2/img1b_PartII(cisco).png)
 
 _GOOGLE :_
-![](img/TD2/img2bPINGgoogle_PartII.png)
+![](TD2/TD2/img2bPINGgoogle_PartII.png)
 
-![](img/TD2/img1b_PartII(google).png)
+![](TD2/TD2/img1b_PartII(google).png)
 
 ## 2. **Examen et analyse des données des hôtes distants**
 ### b) **Indiquer les adresses IP et MAC de destination pour les trois sites :**
