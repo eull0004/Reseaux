@@ -1,13 +1,13 @@
 # Partie 3
 ## La commande host (sous Linux)
 ### 2. Utilisez la commande host pour retrouver :
-**adresse IP du site www.free.fr** : 
+**adresse IP du site www.free.fr :**
 
 __l'addresse : 212.27.48.10__
 
 ![](TD1_R2.05/TD1/P3_host_Q2_1.png)
 
-**le FQDN de 194.57.105.10** : 
+**le FQDN de 194.57.105.10 :** 
 
 __le FQDN : mediacenter-proxy.univ-reims.fr__
 
