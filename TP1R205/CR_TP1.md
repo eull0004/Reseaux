@@ -38,10 +38,10 @@ __wm-in-f26.1e100.net__
 
 ### 4. Quelle commande permet de récupérer la liste des serveurs racines ?
 
-__la commande dig NS__
+__la commande dig NS : dig NS . www.google.fr__
 
 ### 5. Combien de serveurs gèrent la zone fr ?
-
+__commande dig NS fr. www.google.fr : 4 serveurs__
 
 
 ## La commande nslookup (sous Windows)
