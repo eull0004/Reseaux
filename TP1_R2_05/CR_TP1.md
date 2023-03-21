@@ -11,7 +11,7 @@ __212.27.48.10__
 
 __mediacenter-proxy.univ-reims.fr__
 
-![](TP1_R2_05/TD1/P3_host_Q2_2.png)
+![](TP1_R2_05/TD1/P3_host_Q2_2.PNG)
 
 **les FQDN des serveurs dns de la zone google.com** : 
 
@@ -19,7 +19,7 @@ __par10s42-in-f14.1e100.net__
 __mad01s26-in-f14.1e100.net__
 __mad01s26-in-f174.1e100.net__
 
-![](TP1_R2_05/TD1/P3_host_Q2_3.png)
+![](TP1_R2_05/TD1/P3_host_Q2_3.PNG)
 
 **les FQDN des serveurs de messagerie électronique de la zone google.com** : 
 
@@ -29,7 +29,7 @@ __wr-in-f27.1e100.net__
 __wo-in-f26.1e100.net__  
 __wm-in-f26.1e100.net__
 
-![](TP1_R2_05/TD1/P3_host_Q2_4.png)
+![](TP1_R2_05/TD1/P3_host_Q2_4.PNG)
 
 
 
