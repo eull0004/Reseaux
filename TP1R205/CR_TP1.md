@@ -46,7 +46,7 @@ __commande dig NS fr. www.google.fr : 4 serveurs__
 
 ## La commande nslookup (sous Windows)
 
-
+![](TP1R205/TP1R205/P3_host_Q2_4.PNG)
 
 
 
@@ -56,5 +56,5 @@ __commande dig NS fr. www.google.fr : 4 serveurs__
 __la commande  : dig MX univ-reims.fr @anne.univ-reims.fr__
 
 
-### 3. Quelle requête permet de tracer le chemin de délégation depuis l
+### 3. Quelle requête permet de tracer le chemin de délégation depuis le serveur racine vers la cible www.univ-reims.fr ?
 __la commande : dig +trace www.univ-reims.fr__
