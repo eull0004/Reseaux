@@ -51,3 +51,10 @@ __commande dig NS fr. www.google.fr : 4 serveurs__
 
 
 ## La commande dig
+
+### 2. Quelle est l'utilisation de la commande dig permettant de récupérer les adresses IP des serveurs de messagerie électronique de la zone univ-reims.fr en utilisant le serveur de noms anne.univ-reims.fr ? 
+__la commande  : dig MX univ-reims.fr @anne.univ-reims.fr__
+
+
+### 3. Quelle requête permet de tracer le chemin de délégation depuis l
+__la commande : dig +trace www.univ-reims.fr__
