@@ -45,17 +45,14 @@ __commande dig NS fr. www.google.fr : 4 serveurs__
 
 
 ## La commande nslookup (sous Windows)
-### 1. Lancez la commande sans argument.
-![](TP1R205/TP1R205/img1_PartWindows.png)
-
 ### 2. Quelle est l'information produite par l'exécution de la commande ?
-
+![](TP1R205/TP1R205/img1_PartWindows.png)
 
 ### 3. Quelle instruction doit-on inscrire pour récupérer l'adresse IP du serveur cleo.univ-reims.fr ?
 ![](TP1R205/TP1R205/img3_partWindows.png)
 
 ### 4. La réponse fait-elle autorité ? Expliquez !
-
+__Elle ne fait pas autorité car le serveur cleo.univ-reims.fr n'est pas le serveur cleo.univ-reims.fr principal/par défaut.__
 
 ### 5. Quelle instruction permet de changer le serveur de nom à utiliser ?
 ![](TP1R205/TP1R205/img5_PartWindows.png)
@@ -65,7 +62,7 @@ __commande dig NS fr. www.google.fr : 4 serveurs__
 
 
 ### 7. La réponse fait-elle autorité ? Expliquez !
-
+__Oui, grâce à la commande précédente on a pu configuer ce serveur comme le principal donc lui donner autorité.__
 
 ### 8. Quelle instruction permet de changer le type de requête afin de récupérer les enregistrements de type serveurs de noms ?
 ![](TP1R205/TP1R205/img8_PartWindows.png)
