@@ -1,0 +1,10 @@
+[virt-viewer]
+type=vnc
+title=TD6 R2.04
+host=one-dell2
+port=10858
+proxy=http://one-frontend:29876?token=6avg3p15gqp3z8q5hd7q
+fullscreen=0
+toggle-fullscreen=shift+f11
+release-cursor=shift+f12
+secure-attention=ctrl+alt+end
